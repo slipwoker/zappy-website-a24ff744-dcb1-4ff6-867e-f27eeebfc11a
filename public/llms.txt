@@ -1,0 +1,47 @@
+# Business — Generative Engine Optimization Map
+
+---
+
+## Pages
+
+### בית
+https://example.com
+מאיירס שיווק מובילה את שוק יבוא ציוד מקצועי למוסכי רכב ופנצ'ריות מאז 1981. ציוד איכותי, מחירים תחרותיים ושירות ללא פשרות. התקשרו עכשיו!
+
+### ציוד
+https://example.com/equipment
+גלו את מגוון הציוד המקצועי שלנו למוסכי רכב ופנצ'ריות - מכשור מתקדם, כלי עבודה ופתרונות חדשניים. יבוא ישיר, איכות מובטחת ומלאי זמין תמיד!
+
+### אודות
+https://example.com/about
+מאז 1981 מאיירס שיווק מספקת פתרונות ציוד מקצועי למוסכים ופנצ'ריות בכל הארץ. למדו על הניסיון, המומחיות והמחויבות שלנו למצוינות ולשירות אישי.
+
+### צור קשר
+https://example.com/contact
+צריכים ציוד מקצועי למוסך או לפנצ'ריה? צוות המומחים שלנו כאן לייעוץ והכוונה. פנו אלינו היום לקבלת הצעת מחיר מיוחדת ושירות אישי ומקצועי!
+
+## Legal & Policy
+
+### Privacy Policy
+https://example.com/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://example.com/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://example.com/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+# Business Context (for LLM understanding)
+
+## About Business
+---
+
+# Additional Resources
+
+- **Sitemap**: https://example.com/sitemap.xml
+- **Robots.txt**: https://example.com/robots.txt
